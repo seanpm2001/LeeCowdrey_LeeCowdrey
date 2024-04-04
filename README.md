@@ -2,4 +2,4 @@
 
 <a href="https://www.linkedin.com/in/leecowdrey/"><img align="center" alt="LinkedIn" height="15%" width="15%" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png"></a>
 
-Please visit GitHub organisation <a href="https://github.com/Cowdrey-Consulting-UK">Cowdrey Consulting UK</a> for public repositories.
+Please visit GitHub organisation <a href="https://github.com/orgs/Cowdrey-Consulting-UK/repositories?type=public">Cowdrey Consulting UK</a> for our public repositories.
